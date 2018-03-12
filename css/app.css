@@ -1,3 +1,5 @@
+
+
 #social-container{
 	background-color: #4267b1;
 	color: white;
@@ -117,4 +119,20 @@ color: white;
 #saludo p{
 	font-size: 15px;
 }
+
+
+#footer-container h6, h5 {
+	
+	font-size: 10px;
+}
+
+#offCanvas{
+	background-color: #4267b1;
+	color: white;
+}
+#offCanvas a{
+	color: white;
+}
+.logo-menu{
+	background-color: white;
 }
