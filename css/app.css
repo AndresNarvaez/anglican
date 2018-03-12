@@ -2,9 +2,7 @@
 	background-color: #4267b1;
 	color: white;
 }
-.row{
-	max-width: 70rem;
-}
+
 #social-container i{
 	color: white;
 	font-size: 30px;
@@ -37,7 +35,7 @@
 	padding-bottom : 0px;
 	font-size: 5em;
 }
-#action .callout{
+.tituloa{
 	background-color: #89469b;
 	color: white;
 	margin: 0;
@@ -98,4 +96,25 @@
 #footer{
 background-color: #7e76b7;
 color: white;
+}
+
+#footer-container,
+#footer-container h6 {
+	background-color: #4267b1;
+	color: white;
+}
+
+@media screen and (max-width: 400px) {
+
+#noticias h4{
+	padding : 0px;
+	font-size: 2em;
+}
+#noticias h5{
+	padding : 0px;
+	font-size: 1em;
+}
+#saludo p{
+	font-size: 15px;
+}
 }
