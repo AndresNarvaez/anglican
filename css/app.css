@@ -88,9 +88,10 @@
 	background-color: #4267b1;
 	color: white;
 }
-.tituloe{
+.tituloe, .clero h4{
 	background-color: #89469b;
 	color: white;
+	margin-bottom: 0;
 }
 .episcopado{
 	padding-top: 2em;
@@ -104,6 +105,31 @@ color: white;
 #footer-container h6 {
 	background-color: #4267b1;
 	color: white;
+}
+
+#lineup-container .tabs,
+#lineup-container .tabs-content{
+	background-color: #89469b;
+	color: white
+}
+#lineup-container .tabs a{
+	background-color: #89469b;
+	color: white;
+	font-size: 18px;
+}
+#lineup-container img{
+	max-width: 50%;
+	opacity: 0;
+	transition: max-width 2s,opacity 2s;
+	
+}
+#lineup-container:hover img{
+	max-width: 70%;
+	opacity: 1;
+}
+.tabs-title{
+	display: inline-block;
+	float: none;
 }
 
 @media screen and (max-width: 400px) {
@@ -133,6 +159,10 @@ color: white;
 #offCanvas a{
 	color: white;
 }
-.logo-menu{
-	background-color: white;
+
+#lineup-container .tabs{
+	background-color: #89469b;
+	color: white;
 }
+
+
