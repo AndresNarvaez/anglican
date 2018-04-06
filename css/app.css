@@ -1,7 +1,10 @@
 
+body{
+	font-family: 'Quicksand', sans-serif;
+}
 
 #social-container{
-	background-color: #4267b1;
+	background-color: #9B0008;
 	color: white;
 }
 
@@ -10,159 +13,40 @@
 	font-size: 30px;
 }
 #menu-container{
-	background-color: #89469b;
+	background-color: #331C34;
 }
 #menu-container li a{
 	color: white;
 	border: 0;
-
 }
-#saludo h3, h6{
-	color: #89469b;
+#portada h3,h4{
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
 }
-
-#noticias{
-	background-image: url(../images/cruz.png);
-	background-repeat: no-repeat;
-	background-size: cover;
-	color: white;
-	border-color:1px solid white;
-	padding: 3em 0 3em 0;
-
-}
-#noticias h2{
-	padding-top: 0px;
-}
-#noticias h4{
-	padding-bottom : 0px;
-	font-size: 5em;
-}
-.tituloa{
-	background-color: #89469b;
-	color: white;
-	margin: 0;
-
-}
-.centrado{
-	padding: 4em;
-}
-.button{
-	border:1px solid white;
-	margin-bottom: 0;
-}
-.button:hover{
-	background-color: #4267b1;
-
+#portada img{
+height: 160px;
+margin: 100px 0 100px 0;
 }
 
-.t1,.t2,.t3,.t4,.t5,.t6,.t7,.t8{
-	color: white;
-	text-align: justify;
-	padding: 2em 0 2em 0;
-}
-.t1{
-	background-color: #4267b1;	
-}
-.t2{
-	background-color: #6b4a22;	
-}
-.t3{
-	background-color: #692265;
-}
-.t4{
-	background-color: #6a6396;
-}
-.t5{
-	background-color: #9d1c20;
-}
-.t6{
-	background-color: #350f32;	
-}
-.t7{
-	background-color: #3e6b33;		
-}
-.t8{
-	background-color: #4267b1;
-}
 #episcopado{
-	background-color: #4267b1;
+	background-color: #331C34;
 	color: white;
-}
-.tituloe, .clero h4{
-	background-color: #89469b;
-	color: white;
-	margin-bottom: 0;
-}
-.episcopado{
-	padding-top: 2em;
-}
-#footer{
-background-color: #7e76b7;
-color: white;
-}
-
-#footer-container,
-#footer-container h6 {
-	background-color: #4267b1;
-	color: white;
-}
-
-#lineup-container .tabs,
-#lineup-container .tabs-content{
-	background-color: #89469b;
-	color: white
-}
-#lineup-container .tabs a{
-	background-color: #89469b;
-	color: white;
-	font-size: 18px;
-}
-#lineup-container img{
-	max-width: 50%;
-	opacity: 0;
-	transition: max-width 2s,opacity 2s;
 	
 }
-#lineup-container:hover img{
-	max-width: 70%;
-	opacity: 1;
-}
-.tabs-title{
-	display: inline-block;
-	float: none;
+#episcopado h4{
+	padding: 50px;
 }
 
 @media screen and (max-width: 400px) {
 
-#noticias h4{
-	padding : 0px;
-	font-size: 2em;
-}
-#noticias h5{
-	padding : 0px;
-	font-size: 1em;
-}
-#saludo p{
-	font-size: 15px;
-}
-
-
-#footer-container h6, h5 {
-	
-	font-size: 10px;
-}
-
 #offCanvas{
-	background-color: #4267b1;
+	background-color: #331C34;
 	color: white;
 }
 #offCanvas a{
 	color: white;
 }
 
-#lineup-container .tabs{
-	background-color: #89469b;
-	color: white;
-}
+
 
 
