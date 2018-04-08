@@ -47,7 +47,6 @@ margin: 100px 0 100px 0;
 	color: white;
 	border: 0;
 	margin-bottom: 0;
-	/*text-transform: uppercase;*/
 	font-family: 'Quicksand', sans-serif;
 	
 }
@@ -91,6 +90,16 @@ margin: 100px 0 100px 0;
 	width: 60%;
 }
 /*clero*/
+
+#arley{
+	background-color: #8c99aa;
+	color: white;
+}
+#arley h4{
+border-bottom: 4px solid #331C34;
+margin: 0px 400px 0 400px;
+}
+
 @media screen and (max-width: 400px) {
 
 #offCanvas{
