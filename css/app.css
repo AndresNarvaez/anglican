@@ -102,8 +102,8 @@ margin-left: 20%;
 }
 #darwin h4{
 border-bottom: 4px solid #331C34;
-margin-left: 20%
-margin-right: 20%
+margin-left: 20%;
+margin-right: 20%;
 }
 
 @media screen and (max-width: 400px) {
