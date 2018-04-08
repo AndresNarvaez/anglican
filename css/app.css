@@ -97,7 +97,13 @@ margin: 100px 0 100px 0;
 }
 #arley h4{
 border-bottom: 4px solid #331C34;
-margin: 0px 400px 0 400px;
+margin-right: 20%;
+margin-left: 20%;
+}
+#darwin h4{
+border-bottom: 4px solid #331C34;
+margin-left: 20%
+margin-right: 20%
 }
 
 @media screen and (max-width: 400px) {
