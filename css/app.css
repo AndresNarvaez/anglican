@@ -126,8 +126,11 @@ margin: 100px 0 100px 0;
 }
 /*parroquias*/
 
-
-#parroquias h6,h5,h4,h7{
+#parroquias span{
+font-size: 15px;
+color: #331C34;
+}
+#parroquias h6,h5,h4{
 	font-family: 'Quicksand', sans-serif;
 }
 #parroquias img{
