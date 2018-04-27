@@ -124,6 +124,40 @@ margin: 100px 0 100px 0;
 .orbit-image{
 	width: 60%;
 }
+/*parroquias*/
+
+
+#parroquias h6,h5,h4,h7{
+	font-family: 'Quicksand', sans-serif;
+}
+#parroquias img{
+	width: 80%;
+	margin:10%;
+	margin-bottom: 0%;
+	margin-top: 0%;
+}
+#parroquias .column{
+	margin-bottom: 5%;
+}
+#parroquias h4{
+	padding-top: 5%;
+	margin-bottom: %;
+	margin-left:30%; 
+	margin-right: 30%;
+	transition: 1s;
+}
+#parroquias:hover h4{
+border-bottom: 4px solid;
+transition: 1s;	
+}
+#parroquias h5{
+	margin-left:5%; 
+	margin-right: 5%;
+	margin-bottom: 5%;
+	font-family: 'Quicksand', sans-serif;
+}
+/*parroquias*/
+
 /*clero*/
 
 #arley{
