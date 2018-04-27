@@ -187,7 +187,20 @@ margin-right: 20%;
 border-bottom: 4px solid #9676af;
 	
 }
-
+/*jesusbuenpastor*/
+/*#jesusbuenpastor{
+	background-color: #9676af;
+}*/
+#jesusbuenpastor figcaption{
+	background-color: none;
+	height: 100%;
+	
+}
+#jesusbuenpastor #header{
+margin-bottom: 20px;	
+	
+}
+/*jesusbuenpastor*/
 @media screen and (max-width: 400px) {
 
 #offCanvas{
