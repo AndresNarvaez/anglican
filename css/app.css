@@ -18,10 +18,15 @@ body{
 #menu-container li a{
 	color: white;
 	border: 0;
+	font-weight: 1;
 }
 #menu-container a:hover{
 	border: 1px solid #9676af;
 	transition: 0.5s;
+}
+#portada .gr{
+	max-width: 80rem;
+	
 }
 #portada h3,h4{
 	font-family: 'Quicksand', sans-serif;
@@ -30,6 +35,21 @@ body{
 #portada img{
 height: 160px;
 margin: 100px 0 100px 0;
+}
+ .notice{
+	background-color: #331C34;
+	color: white;
+	
+}
+.notice p{
+	/*background-color: white;*/
+	margin-right: 30px;
+    margin-left: 30px;
+}
+.notice h5, h6{
+	border-bottom: 1px solid white;
+	margin-right: 30px;
+    margin-left: 30px;
 }
 
 #episcopado{
