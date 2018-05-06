@@ -1,6 +1,17 @@
 
 body{
 	font-family: 'Quicksand', sans-serif;
+	animation-name: cuadrado;
+	animation-duration: 2s;
+}
+@keyframes cuadrado{
+	0%{
+		opacity: 0;
+
+	}
+	100%{
+opacity: 1;
+	}
 }
 
 #social-container{
