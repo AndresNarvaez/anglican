@@ -43,7 +43,7 @@ opacity: 1;
 	font-family: 'Quicksand', sans-serif;
 	font-weight: bold;
 }
-#portada img{
+#portada .cruz{
 height: 160px;
 margin: 100px 0 100px 0;
 }
@@ -52,6 +52,10 @@ margin: 100px 0 100px 0;
 	color: white;
 	
 }
+#portada img .imagenb2{
+	margin: 0;
+	
+	}
 .notice p{
 	/*background-color: white;*/
 	margin-right: 30px;
@@ -155,6 +159,37 @@ margin: 100px 0 100px 0;
 .orbit-image{
 	width: 60%;
 }
+
+/*fotos*/
+.orbitfotos{
+	width: 800px;
+	/*max-height: 500px;*/
+	display: inline-block;
+	text-align: center;
+	background-color: #dedfe0;
+	display: table-cell;
+	vertical-align: middle;
+	
+	
+}
+.orbit-container{
+	display: table-cell;
+	vertical-align: middle;
+
+}
+#t5fiuv-magellan{
+	padding: 50px;
+}
+/*fotos*/
+
+/*hojadominical*/
+embed{
+width: 100%;
+height: 500px;
+
+}
+/*hojadominical*/
+
 /*parroquias*/
 
 #parroquias span{
