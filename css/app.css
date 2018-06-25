@@ -288,3 +288,7 @@ margin-bottom: 20px;
 .orbit-caption{
 	padding: 0;
 }
+
+.orbit-caption .button{
+	margin: 0;
+}
